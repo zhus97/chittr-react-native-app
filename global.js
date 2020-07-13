@@ -1,0 +1,2 @@
+global.id = '';
+global.token = '';
